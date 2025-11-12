@@ -3,7 +3,7 @@
 
 This repository showcases my completed Cloud and Data Engineering projects. All tasks were executed using Microsoft Azure (Data Lake, Synapse, Data Factory), with solutions easily adaptable to other cloud platforms.
 
-⚠ Note: Some functions may vary if using AWS, GCP, or other cloud services—always confirm platform-specific syntax.
+⚠ Note: Some functions may vary if using AWS, GCP, or other cloud services always confirm platform-specific syntax.
 
 🛠 Key Skills Demonstrated:
 
